@@ -1,0 +1,16 @@
+D:\VS\API\bin\Debug\API.exe.config
+D:\VS\API\bin\Debug\API.exe
+D:\VS\API\bin\Debug\API.pdb
+D:\VS\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\VS\API\obj\Debug\API.csproj.SuggestedBindingRedirects.cache
+D:\VS\API\obj\Debug\MainWindow.g.cs
+D:\VS\API\obj\Debug\App.g.cs
+D:\VS\API\obj\Debug\API_MarkupCompile.cache
+D:\VS\API\obj\Debug\API_MarkupCompile.lref
+D:\VS\API\obj\Debug\MainWindow.baml
+D:\VS\API\obj\Debug\API.g.resources
+D:\VS\API\obj\Debug\API.Properties.Resources.resources
+D:\VS\API\obj\Debug\API.csproj.GenerateResource.cache
+D:\VS\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\VS\API\obj\Debug\API.exe
+D:\VS\API\obj\Debug\API.pdb
